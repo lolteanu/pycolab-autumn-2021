@@ -53,7 +53,7 @@ def greet_stefanita_ionita():
 	return 'missing'
 
 def greet_marian_irimia():
-	return 'missing'
+	return 'Marian Irimia'
 
 def greet_andreea_miruna_istrate():
 	return 'missing'
