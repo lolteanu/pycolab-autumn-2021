@@ -20,7 +20,7 @@ def greet_cosmin_alexandru_avramescu():
 	return 'Cosmin-Alexandru Avramescu'
 
 def greet_elena_raluca_barau():
-	return 'missing'
+	return 'Elena-Raluca Barău '
 
 def greet_alexandra_beresteanu():
 	return 'Alexandra Beresteanu'
