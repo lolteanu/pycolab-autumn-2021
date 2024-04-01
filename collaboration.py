@@ -65,7 +65,7 @@ def greet_andreea_marin():
 	return 'missing'
 
 def greet_andra_maslaev():
-	return 'missing'
+	return 'Andra Maslaev'
 
 def greet_brezniceanu_mihai_cristian():
 	return 'missing'
